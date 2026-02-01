@@ -1,0 +1,38 @@
+__pycache__/
+venv/
+.venv/
+.ipynb_checkpoints
+*.ipynb_checkpoints
+
+# Machine Learning / PyTorch
+*.pth
+*.pt
+*.ckpt
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+*.model
+
+# Data files
+*.tif
+*.tiff
+*.png
+*.jpg
+*.jpeg
+*.zip
+*.tar
+*.tar.gz
+*.csv
+images/
+images_*/
+.env
+
+# Output directories
+output/
+results/
+checkpoints/
+logs/
+runs/
+documents/
+
