@@ -1,6 +1,6 @@
 # PDE-Constrained Optimization for Neural Image Segmentation with Physics Priors
 
-This repository contains the implementation for the research paper **"PDE-Constrained Optimization for Neural Image Segmentation with Physics Priors"**. The project introduces a novel approach to cell segmentation by incorporating partial differential equation (PDE) constraints as physics-based regularization in neural network training.
+This repository contains the implementation for the research paper **[PDE-Constrained Optimization for Neural Image Segmentation with Physics Priors](https://drive.google.com/file/d/1D-BM5eC0vfxKh8Fnj6tGj98nn-1osmQx/view?usp=sharing)**. The project introduces a novel approach to cell segmentation by incorporating partial differential equation (PDE) constraints as physics-based regularization in neural network training.
 
 ## Overview
 
@@ -23,8 +23,7 @@ The method demonstrates improved segmentation performance, especially in low-dat
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd cell_segmentation
+git clone https://github.com/seemapoudel58/Physics_informed_image_segmentation
 ```
 
 2. Install dependencies:
@@ -178,7 +177,6 @@ If you use this code in your research, please cite:
   booktitle={Proceedings of the 1st International Conference on Statistics, Data Science and Optimization (ICSDO-2026)},
   pages={},
   year={2026},
-  address={Department of Statistics, Tripura University, India},
   note={Presented at ICSDO-2026, January 30--31, 2026}
 }
 ```
